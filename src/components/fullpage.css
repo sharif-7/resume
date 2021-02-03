@@ -1,0 +1,10 @@
+.fullwidth{
+    height: 100vh;
+    display : flex;
+    flex: auto;
+    flex-direction: column;
+    justify-content:center;
+    padding-left:10% ;
+    padding-right:10% ;
+  }
+  

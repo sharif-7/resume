@@ -1,0 +1,12 @@
+.flex-item
+{
+  background-color: rgba(0, 136, 255, 0.568);
+  width: 20%;
+  margin: 10px ;
+  border-style:groove ;
+  
+}
+#cardimage{
+    height: 10rem;
+    padding-bottom: 10px;
+}

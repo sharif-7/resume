@@ -1,0 +1,53 @@
+{
+    "title": "Hello I'm Sharif Karimi",
+    "subtitle": "React Js Developer | Web Developer",
+    "links": {
+        "telegram": "https://t.me/sharifkarimi",
+        "instagram": "https://www.instagram.com/sharifkarimi_",
+        "linkedin": "https://www.linkedin.com/in/sharif-karimi-772a29b7/"
+    },
+    "sections": [
+        {
+            "title": "About",
+            "items": [
+                {
+                    "type": "p",
+                    "content": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Amet est placerat in egestas erat. Proin nibh nisl condimentum id venenatis a condimentum. Potenti nullam ac tortor vitae purus faucibus ornare suspendisse sed. Nunc consequat interdum varius sit amet mattis vulputate enim. Augue ut lectus arcu bibendum at varius. Aliquam sem et tortor consequat id. Massa vitae tortor condimentum lacinia quis vel eros. Vitae tortor condimentum lacinia quis. Non curabitur gravida arcu ac tortor."
+                }
+            ]
+        },
+        {
+            "title": "Skills",
+            "items": [
+                {
+                    "type": "card",
+                    "content": {
+                        "image": "https://raw.githubusercontent.com/rexxars/react-hexagon/master/logo/react-hexagon.png",
+                        "title": "React"
+                    }
+                },
+                {
+                    "type": "card",
+                    "content": {
+                        "image": "https://cdn.iconscout.com/icon/free/png-256/javascript-2038874-1720087.png",
+                        "title": "Javascript"
+                    }
+                },
+                {
+                    "type": "card",
+                    "content": {
+                        "image": "https://images.vexels.com/media/users/3/166383/isolated/preview/6024bc5746d7436c727825dc4fc23c22-html-programming-language-icon-by-vexels.png",
+                        "title": "HTML"
+                    }
+                },                                
+                {
+                    "type": "card",
+                    "content": {
+                        "image": "https://i.pinimg.com/originals/eb/7e/20/eb7e20e646f5b7ec9ed4f8f78a5dee8f.png",
+                        "title": "CSS"
+                    }
+                }
+            ]
+        }
+    ]
+}
